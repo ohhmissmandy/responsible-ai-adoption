@@ -6,11 +6,9 @@ Capability and authority aren't the same thing. A tool can be very good at somet
 
 I think about it in three tiers. Real life is never this clean, but this gives me a practical way to sort the decision before something goes wrong:
 
-Assist. The system surfaces information, options, or a first draft. A person still makes the call and is expected to actually engage with it, not rubber-stamp it.
-
-Recommend. The system proposes a specific action, and a person approves or rejects it before anything happens.
-
-Decide. The system can execute the action on its own, without case-by-case human approval, though that doesn't mean no one is watching. Monitoring, audits, exception handling, or after-the-fact review can still be part of how it runs.
+* **Assist.** The system surfaces information, options, or a first draft. A person still makes the call and is expected to actually engage with it, not rubber-stamp it.
+* **Recommend.** The system proposes a specific action, and a person approves or rejects it before anything happens.
+* **Decide.** The system can execute the action on its own, without case-by-case human approval, though that doesn't mean no one is watching. Monitoring, audits, exception handling, or after-the-fact review can still be part of how it runs.
 
 There's real pressure to let AI make more decisions because automation can make the work faster, easier to scale, or cheaper. Those benefits show up quickly. The downside can be harder to picture until something actually goes wrong. Accuracy matters, but I also want to know what happens when the system is wrong. A recommendation engine suggesting the wrong document may be a minor annoyance. A system deciding whether to flag, block, or approve something with real consequences for a person or the business is a very different situation.
 
