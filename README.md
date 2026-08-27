@@ -2,7 +2,7 @@
 
 *Practical thinking on governance, decision rights, trust, and responsible AI adoption.*
 
-My background is in enterprise technology implementation inside a regulated industry, and that shapes the questions I find most interesting about AI: not what it can do, but what it should be allowed to do, who's accountable when it's wrong, and how much oversight is actually enough. This is where I'm putting that thinking in writing: practical, specific, and grounded in how organizations actually operate, not general AI commentary.
+My background is in enterprise technology implementation in a regulated industry. That has shaped the questions I find most interesting about AI, like what it should actually be allowed to do, who's accountable when it's wrong, and how much oversight is enough. This is where I'm writing some of that thinking down.
 
 **Start here:** [What Should AI Be Allowed to Decide?](./what-should-ai-be-allowed-to-decide.md)
 
