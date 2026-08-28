@@ -6,6 +6,8 @@ My background is in enterprise technology implementation in a regulated industry
 
 **Start here:** [What Should AI Be Allowed to Decide?](what-should-ai-be-allowed-to-decide.md)
 
+For a look at how some of these questions can show up in system design, see [AI Governance by Design](https://github.com/ohhmissmandy/ai-governance-by-design).
+
 More pieces will be added as the thinking develops.
 
 For a more practical application of this thinking, see [AI for Technology Delivery](https://github.com/ohhmissmandy/ai-for-technology-delivery).
