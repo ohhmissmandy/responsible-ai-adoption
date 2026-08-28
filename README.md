@@ -7,3 +7,5 @@ My background is in enterprise technology implementation in a regulated industry
 **Start here:** [What Should AI Be Allowed to Decide?](what-should-ai-be-allowed-to-decide.md)
 
 More pieces will be added as the thinking develops.
+
+For a more practical application of this thinking, see [AI for Technology Delivery](https://github.com/ohhmissmandy/ai-for-technology-delivery).
